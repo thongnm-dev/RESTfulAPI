@@ -1,0 +1,8 @@
+
+.vs
+**/.vs
+**/obj/
+**/bin/
+
+certificate/aspnetapp.pfx
+mssql/*
